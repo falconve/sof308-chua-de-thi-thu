@@ -1,0 +1,18 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Nguyen Van A",
+      "age": 20,
+      "email": "nguyenvana@gmail.com",
+      "image": "https://placehold.co/100x100"
+    },
+    {
+      "id": "ebc3",
+      "name": "abcd",
+      "age": 23,
+      "email": "abc@gmail.com",
+      "image": "https://placehold.co/100x100"
+    }
+  ]
+}
